@@ -1,0 +1,23 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    font-style: italic;
+}
+.btn{
+    color:black;
+    background-color: azure;
+}
+.edit{
+    text-decoration: none;
+
+}
+.detail{
+    text-decoration: none;
+}
+ .edit-page{
+    background: red;
+} 
